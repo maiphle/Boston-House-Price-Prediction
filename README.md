@@ -1,4 +1,4 @@
-# House-Price-Prediction-RapidMiner
+# House-Price-Prediction
 A regression model using RapidMiner to predict the price of  houses based on some specific features. 
 
 ## Part 1: Data Understanding
